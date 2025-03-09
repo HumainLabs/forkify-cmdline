@@ -4,9 +4,11 @@
 
 A command-line interface for interacting with Claude AI to process, analyze, and explore documents. Forkify provides an intuitive terminal experience for document analysis with conversation management and system prompt customization.
 
-| ![HumainLabs.ai logo](humainlabs.ai.png) |
-|:------------------------------------------:|
-| *HumainLabs.ai — Cognitive Framework Engineering & Research* |
+<p align="center">
+  <img src="humainlabs.ai.png" alt="HumainLabs.ai logo" width="50%" />
+  <br>
+  <a href="https://humainlabs.ai">HumainLabs.ai -- Cognitive Framework Engineering & Research</a>
+</p>
 
 ## 📋 Table of Contents
 
