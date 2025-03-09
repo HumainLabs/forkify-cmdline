@@ -5,7 +5,7 @@
 A powerful command-line tool for managing conversational context windows with Claude AI. Forkify enables intelligent document processing and "forking" of conversation branches, allowing you to explore multiple conversational paths from a shared context trunk.
 
 <p align="center">
-  <img src="humainlabs.ai.png" alt="HumainLabs.ai logo" width="50%" />
+  <img src="humainlabs.ai.png" alt="HumainLabs.ai logo" width="30%" />
   <br>
   <h3 align="center">HumainLabs.ai</h3>
   <h5 align="center">Cognitive Framework Engineering & <br>Research for AI Cognition</h5>
