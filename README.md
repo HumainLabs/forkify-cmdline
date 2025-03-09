@@ -7,7 +7,9 @@ A powerful command-line tool for managing conversational context windows with Cl
 <p align="center">
   <img src="humainlabs.ai.png" alt="HumainLabs.ai logo" width="50%" />
   <br>
-  <a href="https://humainlabs.ai">HumainLabs.ai -- Cognitive Framework Engineering & Research</a>
+  <h3 align="center">HumainLabs.ai</h3>
+  <h5 align="center">Cognitive Framework Engineering & <br>Research for AI Cognition</h5>
+  <p align="center"><a href="https://humainlabs.ai" align="center">www.HumainLabs.ai</a></p>
 </p>
 
 ## 📋 Table of Contents
